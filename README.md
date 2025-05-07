@@ -154,26 +154,4 @@ Edit
 - Replace `your_groq_api_key_here` with your actual Groq API key when using the app.
 - Ensure that the URL for your GitHub repository is correct before sharing it.
 
-This should now give you a clean, comprehensive README for your project! 🎉
 
-
-
-
-
-
-
-
-
-
-
-Search
-
-Reason
-
-Deep research
-
-Create image
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
